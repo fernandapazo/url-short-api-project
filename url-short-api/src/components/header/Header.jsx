@@ -7,7 +7,7 @@ function Header() {
     <header className="d-flex justify-content-center align-items-center py-3 bg-light">
       <a href="#">
         <img className="custom-link-icon me-2" src={LinkIcon} alt="Link Icon" />
-        <span className="fs-4 fw-bold text-primary">Bitly</span>
+        <span className="fs-4 fw-bold">Bitly</span>
       </a>
     </header>
   );
