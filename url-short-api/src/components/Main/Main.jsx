@@ -1,5 +1,6 @@
 import React from "react";
 import Hero from "../Hero/Hero";
+import Form from "../Form/Form";
 
 function Main() {
   return (
@@ -7,6 +8,7 @@ function Main() {
       <div>
         <div>
           <Hero />
+          <Form />
         </div>
       </div>
     </main>
